@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "username": "admin",
+      "password": "admin123",
+      "name": "Administrador Principal",
+      "email": "admin@multiserviciosjg.com",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "tech-001",
+      "username": "tecnico",
+      "password": "tecnico123",
+      "name": "Técnico Principal",
+      "email": "tecnico@multiserviciosjg.com",
+      "role": "technician",
+      "status": "active",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "clients": [],
+  "vehicles": [],
+  "orders": [],
+  "products": [],
+  "transactions": [],
+  "appointments": []
+}
