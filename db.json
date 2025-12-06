@@ -12,8 +12,8 @@
     },
     {
       "id": "tech-001",
-      "username": "Tecni",
-      "password": "Tecni123",
+      "username": "Tecnico",
+      "password": "Tecnico123",
       "name": "Técnico Principal",
       "email": "tecnico@multiserviciosjg.com",
       "role": "technician",
