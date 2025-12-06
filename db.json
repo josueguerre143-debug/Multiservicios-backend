@@ -2,8 +2,8 @@
   "users": [
     {
       "id": "admin-001",
-      "username": "admin",
-      "password": "admin123",
+      "username": "Gabriel14",
+      "password": "Gabriel28*",
       "name": "Administrador Principal",
       "email": "admin@multiserviciosjg.com",
       "role": "admin",
@@ -12,8 +12,8 @@
     },
     {
       "id": "tech-001",
-      "username": "Tecnico",
-      "password": "Tecnico123",
+      "username": "TecnicoGa",
+      "password": "Tecnico28*",
       "name": "Técnico Principal",
       "email": "tecnico@multiserviciosjg.com",
       "role": "technician",
